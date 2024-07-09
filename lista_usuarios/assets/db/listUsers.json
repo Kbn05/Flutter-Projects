@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Burger",
+        "carrer": "Cocina",
+        "average": 4.5
+    },
+    {
+        "name": "Pizza",
+        "carrer": "Cocina",
+        "average": 4.5
+    },
+    {
+        "name": "Pasta",
+        "carrer": "Cocina",
+        "average": 4.5
+    },
+    {
+        "name": "Tacos",
+        "carrer": "Cocina",
+        "average": 4.5
+    },
+    {
+        "name": "Sushi",
+        "carrer": "Cocina",
+        "average": 4.5
+    },
+    {
+        "name": "Ensalada",
+        "carrer": "Cocina",
+        "average": 4.5
+    },
+    {
+        "name": "Hamburguesa",
+        "carrer": "Cocina",
+        "average": 4.5
+    },
+    {
+        "name": "Pescado",
+        "carrer": "Cocina",
+        "average": 4.5
+    },
+    {
+        "name": "Pollo",
+        "carrer": "Cocina",
+        "average": 4.5
+    },
+    {
+        "name": "Carne",
+        "carrer": "Cocina",
+        "average": 4.5
+    },
+    {
+        "name": "Cerdo",
+        "carrer": "Cocina",
+        "average": 4.5
+    },
+    {
+        "name": "Pasta",
+        "carrer": "Cocina",
+        "average": 4.5
+    },
+    {
+        "name": "Sopa",
+        "carrer": "Cocina",
+        "average": 4.5
+    },
+    {
+        "name": "Arroz",
+        "carrer": "Cocina",
+        "average": 4.5
+    },
+    {
+        "name": "Papas",
+        "carrer": "Cocina",
+        "average": 4.5
+    }
+]

@@ -1,0 +1,1 @@
+{"version":3,"file":"favProduct.js","sourceRoot":"","sources":["../../../src/types/favProduct.ts"],"names":[],"mappings":";;AAAA,uCAAiD;AAOjD,MAAM,gBAAgB,GAAG,IAAI,iBAAM,CAAC;IAChC,MAAM,EAAE;QACJ,IAAI,EAAE,MAAM;QACZ,QAAQ,EAAE,IAAI;KACjB;IACD,SAAS,EAAE;QACP,IAAI,EAAE,MAAM;QACZ,QAAQ,EAAE,IAAI;KACjB;CACJ,CAAC,CAAC;AAEH,kBAAe,IAAA,gBAAK,EAAc,YAAY,EAAE,gBAAgB,CAAC,CAAC"}
